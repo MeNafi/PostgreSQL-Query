@@ -33,7 +33,6 @@ CREATE TABLE Matches (
     CONSTRAINT chk_match_status CHECK (match_status IN ('Available', 'Selling Fast', 'Sold Out', 'Postponed'))
 );
 
-
 -- 3. CREATE BOOKINGS TABLE
 
 CREATE TABLE Bookings (
