@@ -13,7 +13,6 @@ A PostgreSQL database project for managing football match tickets, users, and bo
 * Relational Database Design
 
 
-
 #### 🗄️ Database Tables
 
 * **Users**
