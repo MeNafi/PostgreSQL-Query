@@ -4,7 +4,6 @@
 
 A PostgreSQL database project for managing football match tickets, users, and booking transactions.
 
-
 #### 🚀 Features
 
 * User Management
