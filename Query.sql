@@ -61,7 +61,7 @@ CREATE TABLE Bookings (
 );
 
 
--- DATA SEEDING: INSERT SAMPLE DATA
+-- INSERT SAMPLE DATA
 
 INSERT INTO Users (user_id, full_name, email, role, phone_number) VALUES
 (1, 'Tanvir Rahman', 'tanvir@mail.com', 'Football Fan', '+8801711111111'),
