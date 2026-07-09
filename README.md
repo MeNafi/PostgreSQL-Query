@@ -10,11 +10,11 @@ Detect **13 highway vehicle classes** from CCTV images using Deep Learning and M
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python)
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![YOLO](https://img.shields.io/badge/Object%20Detection-YOLO-111111?style=for-the-badge)
+![YOLOv8](https://img.shields.io/badge/Model-YOLOv8-111111?style=for-the-badge)
+![Ensemble](https://img.shields.io/badge/Technique-Ensemble%20Model-8A2BE2?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 ![Kaggle](https://img.shields.io/badge/Platform-Kaggle-20BEFF?style=for-the-badge&logo=kaggle)
 ![Hackathon](https://img.shields.io/badge/Competition-DUET%20AI%20Hackathon-FF6B00?style=for-the-badge)
-
 </div>
 
 ---
