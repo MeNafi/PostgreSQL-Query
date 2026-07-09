@@ -114,9 +114,7 @@ One submission can change everything.
 
 # 👨‍💻 Team
 
-### Team Name
-
-### ShunnoThekeAI
+### Team Name :  ShunnoThekeAI
 
 - ### Members
 
