@@ -116,7 +116,7 @@ One submission can change everything.
 
 ### Team Name
 
-**ShunnoThekeAI**
+### ShunnoThekeAI
 
 - ### Members
 
