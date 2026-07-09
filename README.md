@@ -19,6 +19,7 @@ Detect **13 highway vehicle classes** from CCTV images using Deep Learning and M
 
 ---
 
+
 # 📖 Overview
 
 **DUET RoadVision** is our solution for the **DUET CSE Carnival 2026 AI Hackathon**, where participants were challenged to build an AI model capable of detecting **13 different vehicle classes** from highway CCTV images.
