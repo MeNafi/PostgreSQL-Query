@@ -27,6 +27,7 @@ With almost no prior practical experience in Computer Vision, our team **ShunnoT
 
 Despite starting near the bottom of the leaderboard, we continuously improved our models and finished among the **Top 20 on the Public Leaderboard**.
 
+
 ---
 
 # 🏆 Competition Results
